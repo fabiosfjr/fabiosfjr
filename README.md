@@ -15,5 +15,6 @@
   <img align="center" alt="Fabio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fabio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-  
-</div>
+  </div>
+ 
+![Snake animation](https://github.com/fabiosfjr/fabiosfjr/blob/output/github-contribution-grid-snake.svg)
