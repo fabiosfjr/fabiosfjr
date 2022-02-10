@@ -1,8 +1,5 @@
 ### Olá, eu sou o Fábio Ferreira 👋
  
- 🌱 Estudando Ecossistema Big Data
-
-
 <div>
   <a href="https://github.com/fabiosfjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiosfjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
