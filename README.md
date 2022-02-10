@@ -17,4 +17,6 @@
   <link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
   </div>
  
-![Snake animation](https://github.com/fabiosfjr/fabiosfjr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fabiosfjr/fabiosfjr/blob/output/github-contribution-grid-snake.svg)
+ 
+</div> 
