@@ -1,4 +1,4 @@
-## <p> `<> Olá, eu ou o Fábio Ferreira 👋</>` </p> 
+## <p> `<> Olá, eu sou o Fábio Ferreira 👋</>` </p> 
  
 <div>
   <a href="https://github.com/fabiosfjr">
